@@ -41,4 +41,4 @@ The Walking Dead is an American post-apocalyptic horror drama television series 
 13. **Season 11 (2021–22)**
 - Eugene's group convinces the Commonwealth, a large, prosperous community with a strict class system, to lend aid and refuge to the Coalition. However, autocratic governor Pamela Milton becomes hostile towards the Coalition after her corruption is exposed and her son Sebastian is killed. The Coalition leads a revolution against Pamela when she tries to sacrifice the lower classes to a horde containing more intelligent walker variants; in the aftermath, Rosita dies of a bite, Negan is accepted by Maggie as an ally, and Ezekiel takes over as governor. After the Coalition is rebuilt, Daryl leaves to find Rick and Michonne.
 
-![Image](![image.pnj](https://github.com/jotardo015/jotardo015.github.io/assets/152839466/3f02eba7-4fe1-4247-bef6-c0703c1633d7)
+![Walking Dead Image](![image.pnj](https://github.com/jotardo015/jotardo015.github.io/assets/152839466/3f02eba7-4fe1-4247-bef6-c0703c1633d7)
